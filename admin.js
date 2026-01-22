@@ -1,0 +1,1 @@
+document.getElementById("incidentList").innerHTML = "<p>Incidents will be displayed here</p>";
